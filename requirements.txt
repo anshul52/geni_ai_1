@@ -3,3 +3,5 @@ langchain-core
 langchain-anthropic
 langchain-community
 langchain-huggingface
+tokenizers<=0.23.0
+torch
